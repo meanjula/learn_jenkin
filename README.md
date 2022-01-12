@@ -2,4 +2,4 @@
 
 - Jenkins is a CI tool. Here we are using CI in nodejs based project.
 
-![CICD](https://github.com/meanjula/CICD/actions/workflows/main.yml/badge.svg?branch=main)(https://github.com/meanjula/CICD/actions/workflows/main.yml)
+[![CICD](https://github.com/meanjula/learn_jenkin/actions/workflows/main.yml/badge.svg?branch=master)](https://github.com/meanjula/learn_jenkin/actions/workflows/main.yml)
